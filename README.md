@@ -1,5 +1,3 @@
-# Tankwar
-
 # Unity Project #1: My_tanks
 
 Welcome! This is the repository for the first Unity **Open Project**, an initiative where Unity and the community collaborate together to create a small **open-source game demo**.
